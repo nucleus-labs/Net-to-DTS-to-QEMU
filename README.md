@@ -45,4 +45,4 @@ optional arguments:
     - [ ] [PyDTSI](#)
 - [ ] Parse the net file to update the component graph, disregarding non-IC components
 - [ ] Export an updated DTS for each processor
-- [ ] Export QEMU command line arguments for 
+- [ ] Export QEMU command line arguments for full emulation of the schematic
