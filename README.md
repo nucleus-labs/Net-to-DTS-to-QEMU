@@ -18,7 +18,7 @@ usage: net2dts2qemu [-h] [-a {dts,dtsi,img_graph}] [-o OUTPUT_DIR]
                     [-I INCLUDE_SRC] [-i INCLUDE]
                     input_file
 
-net2dts2qemu - converts a KiCAD schematic to a dts file for QEMU emulation
+net2dts2qemu - converts a circuit schematic netlist to a dts file for QEMU emulation
 
 positional arguments:
   input_file            the schematic file to parse ; should be a `.net` file.
