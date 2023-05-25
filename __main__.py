@@ -1,3 +1,9 @@
+#
+#   ExportDTS KiCAD Plugin ; __main__.py   
+#
+#   Copyright Maxine Alexander, All Rights Reserved
+#
+#
 
 import argparse
 

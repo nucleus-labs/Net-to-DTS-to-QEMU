@@ -1,6 +1,12 @@
+#
+#   ExportDTS KiCAD Plugin ; dts/link_sources.py
+#
+#   Copyright Maxine Alexander, All Rights Reserved
+#
+#
 
 from argparse import Namespace
-from devicetree import dtlib
+# from devicetree import dtlib
 
 from typing import Tuple, Union, Any
 import re

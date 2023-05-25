@@ -3,8 +3,6 @@
 #
 #   Copyright Maxine Alexander, All Rights Reserved
 #
-#   structs.py contains classes used by several of this plugin's modules for
-#   representing a given schematic
 #
 
 import sexpdata
