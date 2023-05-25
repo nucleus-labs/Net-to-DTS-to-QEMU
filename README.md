@@ -1,6 +1,6 @@
 # Net to DTS to QEMU
 
-"Net to DTS to QEMU" is a command-line tool that converts KiCAD schematic files to Device Tree Source (DTS) files for QEMU emulation. It enables the translation of circuit designs into a format that can be understood by the QEMU emulator, allowing you to simulate and test hardware designs.
+"Net to DTS to QEMU" is a command-line tool that converts circuit schematic netlist files to Device Tree Source (DTS) files for QEMU emulation. It enables the translation of circuit designs into a format that can be understood by the QEMU emulator, allowing you to simulate and test hardware designs.
 
 
 ## Installation
