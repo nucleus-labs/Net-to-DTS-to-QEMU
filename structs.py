@@ -7,7 +7,7 @@
 #   representing a given schematic
 #
 
-import pydevicetree
+import devicetree
 import sexpdata
 
 from typing import List, Dict, Any
