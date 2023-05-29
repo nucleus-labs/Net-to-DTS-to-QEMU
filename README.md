@@ -42,7 +42,7 @@ optional arguments:
 - [X] Parse the net file to locate ICs with a "DTSI" field
 - [ ] Parse the provided DTSI files to generate a component graph and IC graphs
   - It seems there's a hiccup. Both python libraries I found that provide device tree bindings only want to parse DTS files, not DTSI files. A custom library will be needed.
-    - [ ] [PyDTSI](#)
+    - [ ] [py-dtc](#)
 - [ ] Parse the net file to update the component graph, disregarding non-IC components
 - [ ] Export an updated DTS for each processor
 - [ ] Export QEMU command line arguments for full emulation of the schematic
